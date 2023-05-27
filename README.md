@@ -1,4 +1,4 @@
-        # Phone Internationalization Package in Flutter
+# Phone Internationalization Package in Flutter
 
 Welcome to the Phone Internationalization Package in Flutter! This package provides a comprehensive solution to take your mobile application to a global level by enabling effective localization and translation of phone-related content.
 
